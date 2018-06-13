@@ -42,7 +42,7 @@ Essentials tools and ressources for designing faster and better!
 >|-|---|-|-|
 >|![material][material|![ANDROID][ANDROID] | ![IOS][IOS] | ![DESKTOP][DESKTOP]|
 
-[IOS]: 'res/apple-ios.png'
+[IOS]: res/apple-ios24.png
 [ANDROID]: https://github.com/MattixNow/Awesome-AdobeXD/
 [DESKTOP]: https://github.com/MattixNow/Awesome-AdobeXD/
 [material]: https://github.com/MattixNow/Awesome-AdobeXD/
